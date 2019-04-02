@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "Corner",
+        "audio": {
+            "spaw" : "audio1_spawn.wav",
+            "norm" : "audio1_norma.wav",
+            "died" : "audio1_died.wav"
+        },
+        "coords" :{
+            "lati" : 39.620879,
+            "long" : 19.915431
+        },
+        "trajectory": "line",
+        "speed" : 1,
+        "gain": 0.5
+    },
+    {
+        "name" : "Lunatico",
+        "audio": {
+            "spaw" : "audio1_spawn.wav",
+            "norm" : "audio1_norma.wav",
+            "died" : "audio1_died.wav"
+        },
+        "coords" :{
+            "lati" : 39.621038,
+            "long" : 19.915680
+        },
+        "trajectory": "line",
+        "speed" : 1,
+        "gain": 0.5
+    },
+    {
+        "name" : "Stella (Money)",
+        "audio": {
+            "spaw" : "audio1_spawn.wav",
+            "norm" : "audio1_norma.wav",
+            "died" : "audio1_died.wav"
+        },
+        "coords" :{
+            "lati" : 39.620724,
+            "long" : 19.914876
+        },
+        "trajectory": "line",
+        "speed" : 1,
+        "gain": 0.5
+    }
+]
